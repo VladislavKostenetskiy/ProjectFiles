@@ -5,8 +5,8 @@
 
 ## Данные
 9 таблиц Olist, база PostgreSQL. Источник: [Датасет Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download).
-![Схема связей таблиц]()
 
+Схема связей таблиц
 <img width="738" height="722" alt="Схема связей таблиц" src="https://github.com/user-attachments/assets/6d1356cf-e3ce-46e9-a2be-53656c030ec8" />
 
 
