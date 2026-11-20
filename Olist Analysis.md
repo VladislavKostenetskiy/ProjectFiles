@@ -4,7 +4,7 @@
 Ответить на бизнес-вопросы о продажах, клиентах, доставке и товарах с помощью SQL.
 
 ## Данные
-9 таблиц Olist, база PostgreSQL. Источник: ссылка на Kaggle.
+9 таблиц Olist, база PostgreSQL. Источник: [Датасет Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download).
 
 ---
 
